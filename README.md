@@ -4,6 +4,10 @@ A community driven rebuttal and critique of the STC-009 Blockchain Analysis Repo
 # Wyoming Stable Token Rebuttal (STC-009)
 This repository is dedicated to an open, community-driven rebuttal of the STC-009 Blockchain Analysis Report, ensuring a rigorous assessment of blockchain ecosystems.
 
+## 📄 This is a living document and will be updated as more input develops from the community
+**[Read the rebuttal here](rebuttal_stc_009_blockchain_analysis_report.md)**
+
+
 ## How to Contribute
 We welcome contributions from the blockchain community, whether they be technical corrections, additional insights, or counter arguments.
 
