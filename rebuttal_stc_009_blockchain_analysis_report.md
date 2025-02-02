@@ -42,11 +42,18 @@ By failing to incorporate these more reliable indicators, the report presents an
 ---
 
 ## 5. Technical Inaccuracies in Finality and Performance Metrics
-Several technical inaccuracies in the report call into question its credibility. One of the most significant errors is the claim that Cardano’s time to finality is one day. This is incorrect. 
 
-Cardano follows a probabilistic finality model, and transactions are considered irreversible within minutes, not a full day.
+Several technical inaccuracies in the report call into question its credibility. One of the most significant errors is the claim that Cardano’s time to finality is one day. This is incorrect.
 
-In contrast, Ethereum is listed as having a finality time of fifteen minutes, despite its history of finality loss events that have disrupted network operation. The inconsistency in how finality is measured across different blockchains further suggests a lack of technical due diligence in the report.
+Cardano follows a **probabilistic finality model**, meaning that transactions are considered **increasingly irreversible** as more blocks are added over time. Specifically, a transaction on Cardano is considered **final** and **immutable** once **three blocks** have been appended to the block containing the transaction. This ensures a high degree of certainty regarding the finality of the transaction.
+
+While finality is not guaranteed immediately after a transaction is submitted, the probability of a reversal significantly decreases after three additional blocks have been added. This makes Cardano’s finality model both **secure** and **efficient**, with the finality becoming increasingly reliable over time.
+
+**probabilistic finality** on Cardano, with its quick convergence over time and improvements in throughput and decentralization, provides a **highly reliable and secure finality** model.
+
+## References
+
+1. Cexplorer. (n.d.). *Understanding Transaction Finality on Cardano*. Retrieved from [https://cexplorer.io/article/understanding-transaction-finality](https://cexplorer.io/article/understanding-transaction-finality)
 
 ---
 
