@@ -19,7 +19,8 @@ We welcome contributions from the blockchain community, whether they be technica
 - If you want to add new content, correct inaccuracies, or improve analysis, fork the repo, make changes, and submit a pull request.
 
 ### Join the Discussion
-- Use GitHub Discussions to propose ideas, critiques, and additional research contributions.
+- Use GitHub Discussions to propose ideas, critiques, and additional research contributions. There is also a discussions folder with individual topics that are worth exploring, which can be found here: [Discussions](STC-009-Rebuttal/tree/main/discussions)
+
 
 ## License
 This document is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
