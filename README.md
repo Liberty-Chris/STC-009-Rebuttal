@@ -19,7 +19,7 @@ We welcome contributions from the blockchain community, whether they be technica
 - If you want to add new content, correct inaccuracies, or improve analysis, fork the repo, make changes, and submit a pull request.
 
 ### Join the Discussion
-- Use GitHub Discussions to propose ideas, critiques, and additional research contributions. There is also a discussions folder with individual topics that are worth exploring, which can be found here: [Discussions](STC-009-Rebuttal/tree/main/discussions)
+- Use GitHub Discussions to propose ideas, critiques, and additional research contributions. There is also a discussions folder with individual topics that are worth exploring.
 
 
 ## License
